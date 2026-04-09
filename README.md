@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jazcodeit" height="50" />
+  <img src="https://komarev.com/ghpvc/?username=jazcodeit&style=for-the-badge&color=orange" />
 </div>
 
 ###
